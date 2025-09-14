@@ -313,15 +313,7 @@ dependencies = [
  "assert_cmd",
  "assert_fs",
  "clap",
- "linty_core",
  "predicates",
-]
-
-[[package]]
-name = "linty_core"
-version = "0.1.0"
-dependencies = [
- "anyhow",
 ]
 
 [[package]]

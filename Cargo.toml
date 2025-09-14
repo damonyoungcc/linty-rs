@@ -1,3 +1,3 @@
 [workspace]
-members = ["crates/core", "bins/cli"]
+members = ["bins/cli"]
 resolver = "2"

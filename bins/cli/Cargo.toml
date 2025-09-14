@@ -6,7 +6,6 @@ edition = "2021"
 [dependencies]
 anyhow = "1"
 clap = { version = "4", features = ["derive"] }
-linty_core = { path = "../../crates/core" }
 
 [dev-dependencies]
 assert_cmd = "2"
