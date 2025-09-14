@@ -53,7 +53,7 @@ dev FILE:
 
 # ===== 测试 / 基准（占位，后续补齐） =====
 test:
-    cargo test
+    cargo test -p linty
 
 bench:
     cargo bench
