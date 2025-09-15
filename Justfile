@@ -76,3 +76,7 @@ help:
     @echo "  just dev FILE       # 监听改动并自动重跑（需 cargo-watch）"
     @echo "  just test           # 单元测试（后续补）"
     @echo "  just bench          # 基准测试（后续补）"
+
+
+run1:
+    cargo run -p linty1
